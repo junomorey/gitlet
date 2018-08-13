@@ -1,4 +1,4 @@
 # Gitlet
-- Command Line Version Control System
-- Author: Juno Morey and yonas Kbrom
+- Command Line Version Control System built with Java
+- Author: Juno Morey and Yonas Kbrom
 
